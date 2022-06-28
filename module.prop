@@ -1,0 +1,7 @@
+id=xnvr-mediapack
+name=Media Pack
+version=v1.0
+versionCode=1
+author=Xnuv3r
+description=Add System Sound Pack
+updateJson=https://raw.githubusercontent.com/Khairulikhsn/MediaPack-Magisk/main/update.json
